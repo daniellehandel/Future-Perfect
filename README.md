@@ -1,5 +1,5 @@
-# Future Perfect
-Materials and deliverables for Master Modeler Competition 2021
+# The Future Perfect: A Social Media Powered, Community Forward Approach to ERASE Child Trafficking 
+### Materials and deliverables for Master Modeler Competition 2021
 
 
 <img align="right"
