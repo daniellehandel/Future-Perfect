@@ -7,6 +7,6 @@ Materials and deliverables for Master Modeler Competition 2021
      width="350" height="350" />
 
 
-Jasmine Cui
-Danielle Handel
-Kellen Sandvik
+#### Jasmine Cui
+#### Danielle Handel
+#### Kellen Sandvik
